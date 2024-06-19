@@ -65,7 +65,7 @@ Feel free to adjust it further to better fit your style and preferences!
   </a>
 
   <a href="https://www.tensorflow.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/tensorflow.gif"  height="90" width="90" />
+    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/tenserflow.gif"  height="90" width="90" />
   </a>
 
   <a href="https://kubernetes.io/" target="_blank" >
