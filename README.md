@@ -1,17 +1,19 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Dhruv Desai](https://www.linkedin.com/in/dhruv1116/) :blush:	 . I am a sophomore CS and Math student at UW Madison
+* Hi, I'm [Dhruv Desai](https://www.linkedin.com/in/dhruv1116/)! :blush:
+  
+* I'm a sophomore studying CS and Math at UW Madison. :mortar_board:
 
-* I am a Fullstack and AI enthusiast :toolbox:
+* As a Fullstack and AI enthusiast, I've worked on diverse projects—from frontend React applications to backend AI and system deployments. :toolbox: :file_cabinet:
 
-* I have done multiple projects ranging from the field of frontend react applications to backend AI / system deployments. :file_cabinet: .
+* Currently, I'm honing my skills and aiming to delve into Golang, Kubernetes, and Distributed Systems. :books:
 
-* I am currently brushing up my skills and plan to learn Golang and Kubernetes and Distributed Systems.
+* I'm actively seeking summer internship opportunities in the US. :briefcase:
 
-* I am seeking summer Internshop opporunities in the US.
+* Let's connect on [LinkedIn](https://www.linkedin.com/in/dhruv1116/)! :fireworks: :sparkler:
 
-* Connect with me on LinkedIn :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/dhruv1116/) :sparkler:
+Feel free to adjust it further to better fit your style and preferences!
 
 
 ## Tech Stack :computer:
