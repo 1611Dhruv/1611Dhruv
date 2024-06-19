@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Dhruv Desai](https://www.linkedin.com/in/dipto-chakrabarty/](https://www.linkedin.com/in/dhruv1116/) :blush:	 . I am a sophomore CS and Math student at UW Madison
+* I am [Dhruv Desai](https://www.linkedin.com/in/dhruv1116/) :blush:	 . I am a sophomore CS and Math student at UW Madison
 
 * I am a Devops and Python enthusiast :toolbox:
 
