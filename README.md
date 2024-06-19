@@ -68,16 +68,13 @@ Feel free to adjust it further to better fit your style and preferences!
     <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/tenserflow.gif"  height="90" width="90" />
   </a>
 
-  <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/kubernetes.gif"  height="90" />
-  </a>
 </p>
 
 ### Cloud
 
 <p float="left">
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/aws.gif"  height="90" />
+  <a href="https://cloud.google.com/?hl=en" target="_blank" >
+    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/gcp.gif"  height="90" width="90" />
   </a>
 </p>
 
@@ -88,8 +85,8 @@ Feel free to adjust it further to better fit your style and preferences!
     <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/mongo.gif"  height="90" />
   </a>
 
-  <a href="https://www.mysql.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/mysql.png"  height="90" width="90"/>
+  <a href="https://www.postgresql.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/psql.png"  height="90" width="90"/>
   </a>
 </p>
 
