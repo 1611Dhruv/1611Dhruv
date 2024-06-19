@@ -20,13 +20,13 @@ Feel free to adjust it further to better fit your style and preferences!
 ### Programming Languages
 
 <p float="left">
-  <a href="https://golang.org/" target="_blank" >
+  <a href="https://www.gnu.org/software/libc/" target="_blank" >
     <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/master/assets/c.png"  height="90" />
   </a>
-  <a href="https://golang.org/" target="_blank" >
+  <a href="https://cplusplus.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/master/assets/cPP.gif"  height="90" />
   </a>
-  <a href="https://golang.org/" target="_blank" >
+  <a href="https://www.javascript.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/master/assets/js.gif"  height="90" />
   </a>
   <a href="https://golang.org/" target="_blank" >
@@ -36,7 +36,7 @@ Feel free to adjust it further to better fit your style and preferences!
   <a href="https://python.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/python3.gif"  height="90" />
   </a>
-  <a href="https://golang.org/" target="_blank" >
+  <a href="https://www.java.com/en/" target="_blank" >
     <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/master/assets/java.gif"  height="90" />
   </a>
 </p>
