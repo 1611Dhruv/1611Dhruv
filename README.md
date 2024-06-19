@@ -93,10 +93,10 @@
   </a>
 </p>
 
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Dhruv Desai's Github Stats](https://github-readme-stats.vercel.app/api?username=1611Dhruv&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiptoChakrabarty&theme=dark&count_private=true&theme=radical)](https://github.com/DiptoChakrabarty)
-![trophy](https://github-profile-trophy.vercel.app/?username=DiptoChakrabarty&theme=onestar&no-frame=true&column=3&row=2&)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1611Dhruv&theme=dark&count_private=true&theme=radical)](https://github.com/1611Dhruv)
+![trophy](https://github-profile-trophy.vercel.app/?username=1611Dhruv&theme=onestar&no-frame=true&column=3&row=2&)
 
 
-<p align="center"><img src="https://profile-counter.glitch.me/{1116Dhruv}/count.svg" alt="1116Dhruv :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{1611Dhruv}/count.svg" alt="1116Dhruv :: Visitor's Count" /></p>
