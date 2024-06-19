@@ -86,24 +86,13 @@ Feel free to adjust it further to better fit your style and preferences!
   </a>
 
   <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/psql.png"  height="90" width="90"/>
+    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/psql.gif"  height="90" width="90"/>
   </a>
 </p>
 
 ### Tools
 
 <p float="left">
-  <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/grafana.gif"  height="90" />
-  </a>
-
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/influx.gif"  height="90"/>
-  </a>
-
-  <a href="https://www.rabbitmq.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/rabbitmq.png"  height="90" width="90"/>
-  </a>
 </p>
 
 ![Dhruv Desai's Github Stats](https://github-readme-stats.vercel.app/api?username=1611Dhruv&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
