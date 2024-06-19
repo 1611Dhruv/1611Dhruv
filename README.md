@@ -8,6 +8,7 @@
 - Currently, I'm honing my skills and aiming to delve into Golang, Kubernetes, and Distributed Systems. :books:
 
 - I'm actively seeking summer internship opportunities in the US. :briefcase:
+* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/1611Dhruv/1611Dhruv/blob/master/Projects.md)
 
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/dhruv1116/)! :fireworks: :sparkler:
 
