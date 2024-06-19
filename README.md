@@ -16,9 +16,6 @@
             <a href="https://github.com/1611Dhruv/threejs-ai" target="_blank" title="GitHub - 1611Dhruv">
                 <img src="https://img.shields.io/badge/-GitHub-3a3a3a?style=flat&logo=github&logoColor=white" />
             </a>
-            <a href="https://www.linkedin.com/in/1116dhruv" target="_blank" title="LinkedIn - 2KAbhishek">
-                <img src="https://img.shields.io/badge/-2KAbhishek-0072b1?style=flat&logo=Linkedin&logoColor=white" />
-            </a>
             <a href="https://2kabhishek.github.io/links" target="_blank" title="More Links">
                 <img src="https://img.shields.io/badge/-More-09b43a?style=flat&logo=linkfire&logoColor=white" />
             </a>
