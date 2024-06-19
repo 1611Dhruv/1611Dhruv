@@ -96,5 +96,3 @@ Feel free to adjust it further to better fit your style and preferences!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1611Dhruv&theme=dark&count_private=true&theme=radical)](https://github.com/1611Dhruv)
 ![trophy](https://github-profile-trophy.vercel.app/?username=1611Dhruv&theme=onestar&no-frame=true&column=3&row=2&)
-
-<p align="center"><img src="https://profile-counter.glitch.me/{1611Dhruv}/count.svg" alt="1116Dhruv :: Visitor's Count" /></p>
