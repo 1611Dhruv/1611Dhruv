@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 - Hi, I'm [Dhruv Desai](https://www.linkedin.com/in/dhruv1116/)! :blush:
-- I'm a sophomore studying CS and Math at UW Madison. :mortar_board:
+- I'm a junior studying CS and Math at UW Madison. :mortar_board:
 
 - As a Fullstack and AI enthusiast, I've worked on diverse projects—from frontend React applications to backend AI and system deployments. :toolbox: :file_cabinet:
 
