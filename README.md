@@ -3,17 +3,15 @@
 
 * I am [Dhruv Desai](https://www.linkedin.com/in/dhruv1116/) :blush:	 . I am a sophomore CS and Math student at UW Madison
 
-* I am a Devops and Python enthusiast :toolbox:
+* I am a Fullstack and AI enthusiast :toolbox:
 
-* I have done multiple projects ranging from the field of Devops , Backend to Cloud Computing and Automation :file_cabinet: .
+* I have done multiple projects ranging from the field of frontend react applications to backend AI / system deployments. :file_cabinet: .
 
-* I am currently brushing up my skills and plan to learn Golang and Terraform .
+* I am currently brushing up my skills and plan to learn Golang and Kubernetes and Distributed Systems.
 
-* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
+* I am seeking summer Internshop opporunities in the US.
 
-* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
-
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/dipto-chakrabarty/) :sparkler:
+* Connect with me on LinkedIn :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/dhruv1116/) :sparkler:
 
 
 ## Tech Stack :computer:
@@ -100,21 +98,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiptoChakrabarty&theme=dark&count_private=true&theme=radical)](https://github.com/DiptoChakrabarty)
 ![trophy](https://github-profile-trophy.vercel.app/?username=DiptoChakrabarty&theme=onestar&no-frame=true&column=3&row=2&)
 
-## My Certifications :arrow_down:
 
-- [Red Hat Certified System Administrator](https://drive.google.com/file/d/13EaKphJ3zC1vn1q-nevF6YoJuit_aeik/view?usp=sharing)
-- [Red Hat Certified Specialist in Ansible Automation](https://drive.google.com/file/d/1Nf-0RHdcBAlj1-tMuMy_12cw9d3hGDgN/view?usp=sharing)
-- [Red Hat Certified  Engineer](https://drive.google.com/file/d/1b2ivwSc9fu9V2E7OZ7jrk7YQMaN-T12i/view?usp=sharing) 
-
-
-## My Activities :mailbox_with_mail:
-
-| BLOGS :open_book: | WEBINARS :tv: |
-| :--- | :--- |
-| [How Jenkins can help build your code](https://medium.com/@diptochakrabarty/how-jenkins-can-actually-help-you-build-your-code-with-every-commit-5b9b1278f12f) | [Micorservices with Docker](https://www.youtube.com/watch?v=Xs93YLgYJis&t=1989s) |
-| [Kubernetes and Docker setup using Ansible](https://medium.com/codechef-vit/docker-and-kubernetes-setup-using-ansible-3d7e8f77fbfa) | [Guide to Linux](https://www.youtube.com/watch?v=t1HOY7Rp6xU) |
-| [Automation with Ansible](https://medium.com/@diptochakrabarty/automation-with-ansible-2ae27fc94947) | [Ansible Automation](https://www.youtube.com/watch?v=r2sZ_aWU8h8) |
-
-If you like the Repository give it a :star: and also follow me on Github :grinning: , you can also see my projects here [Projects](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
-
-<p align="center"><img src="https://profile-counter.glitch.me/{DiptoChakrabarty}/count.svg" alt="DiptoChakrabarty :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{1116Dhruv}/count.svg" alt="1116Dhruv :: Visitor's Count" /></p>
