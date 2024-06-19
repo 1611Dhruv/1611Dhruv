@@ -39,6 +39,9 @@ Feel free to adjust it further to better fit your style and preferences!
   <a href="https://golang.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/master/assets/java.gif"  height="90" />
   </a>
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/master/assets/java.gif"  height="90" />
+  </a>
 </p>
 
 ### Devops
