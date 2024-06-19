@@ -20,12 +20,6 @@ Feel free to adjust it further to better fit your style and preferences!
 ### Programming Languages
 
 <p float="left">
-  <a href="https://www.gnu.org/software/libc/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/master/assets/c.png"  height="90" />
-  </a>
-  <a href="https://cplusplus.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/master/assets/cPP.gif"  height="90" />
-  </a>
   <a href="https://www.javascript.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/master/assets/js.gif"  height="90" />
   </a>
@@ -35,6 +29,12 @@ Feel free to adjust it further to better fit your style and preferences!
 
   <a href="https://python.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/python3.gif"  height="90" />
+  </a>
+  <a href="https://www.gnu.org/software/libc/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/master/assets/c.png"  height="90" />
+  </a>
+  <a href="https://cplusplus.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/master/assets/cPP.gif"  height="90" />
   </a>
   <a href="https://www.java.com/en/" target="_blank" >
     <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/master/assets/java.gif"  height="90" />
@@ -52,20 +52,24 @@ Feel free to adjust it further to better fit your style and preferences!
     <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/git.gif"  height="90" width="90" />
   </a>
 
-  <a href="https://www.ansible.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/ansible.gif"  height="90" width="90"/>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/kubernetes.gif"  height="90" />
+  </a>
+</p>
+
+### AI Tools
+
+<p float="left">
+  <a href="https://pytorch.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/torch.gif"  height="90" width="90" />
+  </a>
+
+  <a href="https://www.tensorflow.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/tensorflow.gif"  height="90" width="90" />
   </a>
 
   <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/kubernetes.gif"  height="90" />
-  </a>
-
-  <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/cicd.gif"  height="90" />
-  </a>
-
-  <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/1611Dhruv/1611Dhruv/main/assets/terraform.gif"  height="90" />
   </a>
 </p>
 
