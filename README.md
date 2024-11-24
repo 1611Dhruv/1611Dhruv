@@ -5,7 +5,7 @@
 
 - As a Fullstack and AI enthusiast, I've worked on diverse projects—from frontend React applications to backend AI and system deployments. :toolbox: :file_cabinet:
 
-- Currently, I'm honing my skills and aiming to delve into Golang, Kubernetes, and Distributed Systems. :books:
+- Currently, I'm currently working on  [goNN](https://github.com/RSYashwanth/goNN) (Neural Network Library in Golang)  :books:
 
 - I'm actively seeking summer internship opportunities in the US. :briefcase:
 
