@@ -14,4 +14,4 @@ fastest way to understand the stack is to rebuild it and break it yourself.
 Also responsible for a Brainfuck interpreter written entirely in Vim macros.
 I'm not sorry.
 
-📫 [ddesai.dev](https://ddesai.dev)
+[ddesai.dev](https://ddesai.dev)
